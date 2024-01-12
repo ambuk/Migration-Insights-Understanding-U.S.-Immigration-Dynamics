@@ -30,10 +30,6 @@
   </ol>
 </details>
 
-# Data Engineer Nanodegree Capstone Project
-
-This is the final project from the [Data Engineer Nanodegree Program at Udacity](https://www.udacity.com/course/data-engineer-nanodegree--nd027) to practice everything that has been taught during the degree.
-
 ## About The Project
 
 ### Premise
